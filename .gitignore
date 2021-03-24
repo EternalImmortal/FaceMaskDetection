@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 VGG19
 *.hdf5
+*.idea
